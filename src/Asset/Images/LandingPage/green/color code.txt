@@ -1,0 +1,11 @@
+Body:#2f454f (background and text color)
+font-weight: 400
+
+Green code:#388d80
+Blue code:#4583aa
+Red code:#bc382e
+
+Footer code:#1d2b34
+
+
+Know your audience code:#577783
